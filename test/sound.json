@@ -4,6 +4,7 @@
 	"methods": [
 		"playSound",
 		"loadSound",
+		"setPlaybackRate",
 		"playBackgroundMusic",
 		"loadBackgroundMusic",
 		"stopSound",
